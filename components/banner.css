@@ -11,7 +11,7 @@
 
 @media screen and (max-width:763px) {
  .banner {
-    background-size: 100%;
+    background-size: auto;
     background: no-repeat;
  }   
 }
