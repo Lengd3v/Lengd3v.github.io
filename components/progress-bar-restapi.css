@@ -1,0 +1,16 @@
+.progress-bar-restapi {
+    box-sizing: border-box;
+    background-color: #fff;
+    border: 5px solid #000;
+    height: 40px;
+}
+
+.progress-bar-restapi::-webkit-progress-bar,
+.progress-bar-restapi::-webkit-progress-value {
+    width: 5%;
+    background-color: #AF60BC;
+}
+
+.progress-bar-restapi::-moz-progress-bar {
+    background-color: #AF60BC;
+}

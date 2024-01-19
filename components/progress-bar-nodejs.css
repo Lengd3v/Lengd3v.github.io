@@ -1,0 +1,16 @@
+.progress-bar-nodejs {
+    box-sizing: border-box;
+    background-color: #fff;
+    border: 5px solid #000;
+    height: 40px;
+}
+
+.progress-bar-nodejs::-webkit-progress-bar,
+.progress-bar-nodejs::-webkit-progress-value {
+    width: 8%;
+    background-color: #AF60BC;
+}
+
+.progress-bar-nodejs::-moz-progress-bar {
+    background-color: #AF60BC;
+}
