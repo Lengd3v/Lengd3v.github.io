@@ -6,3 +6,9 @@
     padding: 10px 20px;
     justify-content: space-between;
 }
+
+.logo {
+    font-family: 'Press Start 2p', sans-serif;
+    color: #FFF;
+    text-shadow: 5px 5px 0px #000;
+  }
