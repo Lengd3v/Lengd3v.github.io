@@ -9,12 +9,7 @@
     padding-left: 90px;
 }
 
-@media screen and (max-width:763px) {
- .banner {
-    height: 763px;
-    background: no-repeat;
- }   
-}
+
 
 .banner .wrapper {
     display: flex;
