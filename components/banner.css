@@ -1,19 +1,11 @@
 .banner {
     background-image: url(../assets/img/nelsonlego.png);
-    height: 1080px;
-    
+    height: 800px;
     background-size: 100%;
     background-repeat: no-repeat;
     border-bottom: 10px solid #000;
-    border-top: 3px solid #000;
     padding-top: 125px;
     padding-left: 90px;
-}
-
-@media screen and (max-width:763px) {
- .banner {
-    background: no-repeat;
- }   
 }
 
 .banner .wrapper {
