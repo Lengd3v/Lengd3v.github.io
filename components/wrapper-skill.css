@@ -7,7 +7,7 @@
 }
 
 .wrapper-skill .skill-tec {
-    width: 430px;
+    width: 400px;
     margin-bottom: 38px;
 
 }
@@ -17,11 +17,11 @@
 }
 
 .wrapper-skill .progress-bar-html {
-    width: 320px;
+    width: 329px;
 }
 
 .wrapper-skill .progress-bar-css {
-    width: 320px;
+    width: 329px;
 }
 
 .wrapper-skill .progress-bar-javascript {
@@ -33,7 +33,8 @@
 }
 
 .wrapper-skill .progress-bar-nodejs {
-    width: 320px;
+    width: 325px;
+    
 }
 
 .wrapper-skill .progress-bar-tdd {
