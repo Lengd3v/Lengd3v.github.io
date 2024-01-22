@@ -1,6 +1,6 @@
 .main-banner {
     display: flex;
-    background-image: url(/Lengd3v.github.io/assets/img/nelsonlego.png);
+    background-image: url(../../assets/img/nelsonlego.png);
     height: 1080px;
     background-repeat: no-repeat;
     border-bottom: 10px solid #000;
