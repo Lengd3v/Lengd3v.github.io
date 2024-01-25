@@ -26,3 +26,35 @@
     justify-content: space-around;
 
 }
+
+@media (min-width: 100px) and (max-width: 450px) {
+    .main-banner {
+        display: flex;
+        background-image: url(../../assets/img/nelsonlegomob.png);
+        height: 530px;
+        background-repeat: no-repeat;
+        border-bottom: 10px solid #000;
+    }
+    
+    .wrapper {
+        padding-top: 10px;
+        padding-left: 25px;
+    }
+    .main-banner .wrapper {
+        display: flex;
+        flex-direction: column;
+        width: 310px;
+    }
+    
+    .main-banner .main-box {
+        margin-bottom: 7px;
+    
+    }
+    
+    .main-banner .navigation {
+        display: flex;
+        justify-content: space-around;
+    
+    }
+    
+}

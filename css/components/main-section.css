@@ -29,3 +29,40 @@
 .main-section.-bdBlack {
     border-color: #f25a70;
 }
+
+@media (min-width: 220px) and (max-width: 450px) {
+
+    .main-section {
+        background-color: #f25a70;
+        padding-top: 15px;
+        padding-bottom: 40px;
+        border-bottom: 10px solid #7c5e99;
+    }
+    
+    .main-section .main-title {
+        margin-bottom: 60px;
+    }
+    
+    .main-section.-bgBlack{
+        background-color: #000;
+        padding-top: 15px;
+        padding-bottom: 70px;
+    }
+    
+    .main-section.-bdFirst {
+        border-bottom: 10px solid #000;
+    }
+    
+    .main-section.-bdFirst {
+        border-color: #000;
+    
+    }
+    
+    .main-section.-bgSecond {
+        background-color: #7c5e99;
+    }
+    
+    .main-section.-bdBlack {
+        border-color: #f25a70;
+    }
+}

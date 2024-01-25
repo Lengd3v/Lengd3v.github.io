@@ -7,8 +7,25 @@
     }
 
 .main-title.-second {
-  color: #FFF;
-  text-shadow: none;
-  text-align: center;
+    color: #FFF;
+    text-shadow: none;
+    text-align: center;
 
+}
+
+@media (min-width: 220px) and (max-width: 450px) {
+  .main-title {
+    font-family: 'Press Start 2P', sans-serif;
+    font-size: 30px;
+    color: #F25A70;
+    text-shadow: 5px 5px 0px #000;
+    padding-bottom: 13px;
+    }
+
+.main-title.-second {
+    color: #FFF;
+    text-shadow: none;
+    text-align: center;
+
+}
 }

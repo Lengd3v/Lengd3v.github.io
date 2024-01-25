@@ -23,3 +23,36 @@
 .skill-tec .title {
     margin-bottom: 16px;
 }
+
+
+@media (min-width: 220px) and (max-width: 450px) {
+
+    .skill-tec {
+        display: flex;
+        align-items: center;
+        font-family: "Press Start 2P";
+        font-weight: 400;
+        font-size: 18px;
+        color: #fff;
+        
+    }
+    
+    .skill-tec .icon {
+        margin-right: 20px;
+        margin-left: 15px;
+        width: 60px;
+    }
+    
+    .skill-tec .right {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+    
+    }
+    
+    .skill-tec .title {
+        margin-bottom: 13px;
+    }
+
+
+}

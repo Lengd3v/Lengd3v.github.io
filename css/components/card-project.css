@@ -9,4 +9,17 @@
     
 }
 
+@media (min-width: 220px) and (max-width: 450px) {
+    .card-project {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: #FFF;
+        width: 80px;
+        height: 90px;
+        box-shadow: 5px 5px 0px #7c5e99;
+        
+    }
+
+}
 

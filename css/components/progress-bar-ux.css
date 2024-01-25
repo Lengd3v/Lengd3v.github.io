@@ -14,3 +14,25 @@
 .progress-bar-ux::-moz-progress-bar {
     background-color: #AF60BC;
 }
+
+
+@media (min-width: 220px) and (max-width: 450px) {
+    .progress-bar-ux {
+        box-sizing: border-box;
+        background-color: #fff;
+        border: 4px solid #000;
+        height: 30px;
+    }
+    
+    .progress-bar-ux::-webkit-progress-bar,
+    .progress-bar-ux::-webkit-progress-value {
+        width: 50%;
+        background-color: #AF60BC;
+    }
+    
+    .progress-bar-ux::-moz-progress-bar {
+        background-color: #AF60BC;
+    }
+    
+    
+}

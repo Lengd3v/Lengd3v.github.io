@@ -49,3 +49,57 @@
     width: 320px;
 }
 
+
+@media (min-width: 220px) and (max-width: 450px) {
+    .wrapper-skill {
+        display: flex;
+        flex-wrap: wrap;
+        max-width: 960px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    .wrapper-skill .skill-tec {
+        width: 400px;
+        margin-bottom: 38px;
+    
+    }
+    
+    .wrapper-skill .skill-tec:nth-child(odd) {
+        margin-right: 100px;
+    }
+    
+    .wrapper-skill .progress-bar-html {
+        width: 180px;
+    }
+    
+    .wrapper-skill .progress-bar-css {
+        width: 180px;
+    }
+    
+    .wrapper-skill .progress-bar-javascript {
+        width: 180px;
+    }
+    
+    .wrapper-skill .progress-bar-react {
+        width: 180px;
+    }
+    
+    .wrapper-skill .progress-bar-nodejs {
+        width: 180px;
+        
+    }
+    
+    .wrapper-skill .progress-bar-tdd {
+        width: 180px;
+    }
+    
+    .wrapper-skill .progress-bar-restapi {
+        width: 180px;
+    }
+    
+    .wrapper-skill .progress-bar-ux {
+        width: 180px;
+    }
+    
+}
