@@ -16,7 +16,7 @@
 }
 
 
-@media (min-width: 220px) and (max-width: 450px) {
+@media (min-width: 220px) and (max-width: 460px) {
     .progress-bar-ux {
         box-sizing: border-box;
         background-color: #fff;

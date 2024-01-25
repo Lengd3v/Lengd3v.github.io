@@ -50,7 +50,7 @@
 }
 
 
-@media (min-width: 220px) and (max-width: 450px) {
+@media (min-width: 220px) and (max-width: 460px) {
     .wrapper-skill {
         display: flex;
         flex-wrap: wrap;

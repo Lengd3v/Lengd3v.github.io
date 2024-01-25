@@ -42,7 +42,7 @@
     background-color: green;
 }
 
-@media (min-width: 220px) and (max-width: 450px) {
+@media (min-width: 220px) and (max-width: 460px) {
 
     .node-card {
         display: inline-flex;

@@ -59,7 +59,7 @@
     transition: transform 100ms ease-in-out;
 }
 
-@media (min-width: 220px) and (max-width: 450px) {
+@media (min-width: 220px) and (max-width: 460px) {
 
     .main-carousel {
         display: flex;

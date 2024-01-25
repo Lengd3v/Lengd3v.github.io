@@ -9,7 +9,7 @@
     margin-bottom: 28px;
 }
 
-@media (min-width: 220px) and (max-width: 450px) {
+@media (min-width: 220px) and (max-width: 460px) {
     .main-box {
         display: inline-block;
         background-color: #3A4042;

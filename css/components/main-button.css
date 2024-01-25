@@ -14,7 +14,7 @@
     transform: scale(1.08);
  }       
 
- @media (min-width: 220px) and (max-width: 450px) {
+ @media (min-width: 220px) and (max-width: 460px) {
    .main-button {
       display: inline-block;
       background-color: #F25A70; 
