@@ -9,7 +9,7 @@
     
 }
 
-@media (min-width: 220px) and (max-width: 460px) {
+@media (min-width: 220px) and (max-width: 710px) {
     .card-project {
         display: flex;
         justify-content: center;
