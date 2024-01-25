@@ -12,7 +12,12 @@
 
  .main-button:hover, a:hover {
     transform: scale(1.08);
- }       
+ } 
+ 
+ .main-button.-full {
+   width: 100%;
+
+ }
 
  @media (min-width: 220px) and (max-width: 460px) {
    .main-button {
