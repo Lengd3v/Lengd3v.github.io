@@ -8,6 +8,7 @@
     font-size: 20px;
     color: #FFF;
     text-decoration: none;
+    cursor: pointer;
        }
 
  .main-button:hover, a:hover {
@@ -16,7 +17,10 @@
  
  .main-button.-full {
    width: 100%;
+ }
 
+ .main-button.-full:hover {
+   transform: scale(1.01);
  }
 
  @media (min-width: 220px) and (max-width: 460px) {
